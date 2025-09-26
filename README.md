@@ -35,8 +35,9 @@ Make sure you have the following installed:
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/karkishubha/Palm_Mind_Backend_API.git
+
+
 ```
 
 ---
