@@ -1,7 +1,5 @@
 
-# 🌴 Palm Minds Backend Task
 
-This repository contains the backend implementation for the **Palm Minds hiring task**.
 
 ## ✨ Features
 
